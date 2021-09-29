@@ -10,6 +10,7 @@
         <arguments>
             <argument name="validationRules" xsi:type="array">
                 <item name="InStorePickupQuoteValidationRule" xsi:type="object">Magento\InventoryInStorePickupQuote\Model\Quote\ValidationRule\InStorePickupQuoteValidationRule</item>
+                <item name="InStorePickupItemSourceStockQuoteValidationRule" xsi:type="object">Magento\InventoryInStorePickupQuote\Model\Quote\ValidationRule\InStorePickupItemSourceStockQuoteValidationRule</item>
             </argument>
         </arguments>
     </type>
